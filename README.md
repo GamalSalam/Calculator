@@ -1,6 +1,6 @@
 # Calculator
 
-## run programe
+## Run Programe
 ### write the first number
 ### then select operate sign
 ### write the seconde number
